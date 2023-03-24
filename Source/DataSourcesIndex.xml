@@ -1,0 +1,48 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="13030.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="80"/>
+
+  <LastIsnFolder val="0"/>
+
+  <Folders/>
+
+</Header>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="TE_EMPCOMPLE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="1" name="TE_EMPCOMPLE" offset="214" length="5548"/> 
+<DataObject PhysicalName="TE_RECCARNFE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="2" name="TE_RECCARNFE" offset="5763" length="11528"/> 
+<DataObject PhysicalName="TE_RECCARPED" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="3" name="TE_RECCARPED" offset="17292" length="7369"/> 
+<DataObject PhysicalName="TE_RECCARITEMPED" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="4" name="TE_RECCARITEMPED" offset="24662" length="10793"/> 
+<DataObject PhysicalName="TE_MATERIALCOMPL" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="5" name="TE_MATERIALCOMPL" offset="35456" length="2486"/> 
+<DataObject PhysicalName="TE_PERGUNTA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="6" name="TE_PERGUNTA" offset="37943" length="11236"/> 
+<DataObject PhysicalName="TE_RESPOSTA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="7" name="TE_RESPOSTA" offset="49180" length="7380"/> 
+<DataObject PhysicalName="TE_QUESTIONARIO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="8" name="TE_QUESTIONARIO" offset="56561" length="2483"/> 
+<DataObject PhysicalName="TE_QUESTXPERG" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="9" name="TE_QUESTXPERG" offset="59045" length="3248"/> 
+<DataObject PhysicalName="TE_QUESTXPROC" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="10" name="TE_QUESTXPROC" offset="62294" length="3793"/> 
+<DataObject PhysicalName="TE_CREDGARANTIA" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="11" name="TE_CREDGARANTIA" offset="66088" length="6594"/> 
+<DataObject PhysicalName="TE_CREDCLIENTE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="12" name="TE_CREDCLIENTE" offset="72683" length="11859"/> 
+<DataObject PhysicalName="TE_TALAOXRESP" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="13" name="TE_TALAOXRESP" offset="84543" length="6436"/> 
+<DataObject PhysicalName="TE_SUBGRUPODESCONTO" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="14" name="TE_SUBGRUPODESCONTO" offset="90980" length="2693"/> 
+<DataObject PhysicalName="TE_SERVICOXITEMNFE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="15" name="TE_SERVICOXITEMNFE" offset="93674" length="5889"/> 
+<DataObject PhysicalName="TE_GERITREG" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="16" name="TE_GERITREG" offset="99564" length="7660"/> 
+<DataObject PhysicalName="TE_PERGUNTAXUN" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="17" name="TE_PERGUNTAXUN" offset="107225" length="4910"/> 
+<DataObject PhysicalName="TE_DADOS_CHEQUE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="18" name="TE_DADOS_CHEQUE" offset="112136" length="3730"/> 
+<DataObject PhysicalName="TE_CFG" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="19" name="TE_CFG" offset="115867" length="11586"/> 
+<DataObject PhysicalName="TE_CFU" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="20" name="TE_CFU" offset="127454" length="10861"/> 
+<DataObject PhysicalName="LFICMSER" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="21" name="LFICMSER" offset="138316" length="58012"/> 
+<DataObject PhysicalName="PABENS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="22" name="PABENS" offset="196329" length="72181"/> 
+<DataObject PhysicalName="PACBE" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="23" name="PACBE" offset="268511" length="42621"/> 
+<DataObject PhysicalName="TE_COMPLCTR" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="76" name="TE_COMPLCTR" offset="311133" length="19918"/> 
+<DataObject PhysicalName="TE_CLAUSULAS" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="79" name="TE_CLAUSULAS" offset="331052" length="3514"/> 
+<DataObject PhysicalName="TE_CLASULASCTR" Resident="N" UniqueISNConvState="12" data_source="CIGAM_SQL" id="80" name="TE_CLASULASCTR" offset="334567" length="5937"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31021774-127936669"/>  </Application>

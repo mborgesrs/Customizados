@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13030.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="0"/>
+  </Header>
+
+  <ProjectProperties>
+    <ProjectData>
+      <GUID val="{37DA7F8A-7BA4-46A2-B504-3FA5EF44EDB8}"/>
+      <RemoteFlowMonitorRight comp="-1"/>
+      <Icon val="%CIGAM_INSTAL%Imagens\cigam-ico.bmp"/>
+      <NulArithmetic val="N"/>
+      <WindowSortBy val="R"/>
+      <_SystemPulldownMenu comp="-1"/>
+      <_SystemContextMenu comp="-1"/>
+      <ExposeComment val="N"/>
+      <ProjectName val="CG39297"/>
+    </ProjectData>
+  </ProjectProperties>
+
+</Application>
